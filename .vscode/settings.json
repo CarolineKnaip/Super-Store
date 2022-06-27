@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "Model/super-store/super-store.sqlproj"
+    ]
+}
