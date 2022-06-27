@@ -1,4 +1,8 @@
 CREATE TABLE [dbo].[usuario]
 (
-  [Id] INT NOT NULL PRIMARY KEY
+  [id_usuario] INT NOT NULL PRIMARY KEY,
+  [nome] VARCHAR (50),
+  [email] VARCHAR (50),
+  [senha] VARCHAR (12)
+  
 )
