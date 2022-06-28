@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>
 <title> Login de Usuário </title>
@@ -11,3 +12,6 @@
 </form>
 </body>
 </html>
+=======
+
+>>>>>>> 62f141262113d5362ffed9a5e3d988243e0fe8fd
