@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 <html>
 <head>
 <title> Login de Usuário </title>
 </head>
 <body>
-<form method="POST" action="recebe_login.php">
+<form method="POST" action="..Controller/recebe_login.php">
 <label>Login:</label><input type="text" name="login" id="login"><br>
 <label>Senha:</label><input type="password" name="senha" id="senha"><br>
 <input type="submit" value="entrar" id="entrar" name="entrar"><br>
